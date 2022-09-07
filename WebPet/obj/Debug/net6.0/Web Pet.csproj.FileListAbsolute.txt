@@ -1,0 +1,27 @@
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\bin\Debug\net6.0\appsettings.json
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\bin\Debug\net6.0\Web Pet.exe
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\bin\Debug\net6.0\Web Pet.deps.json
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\bin\Debug\net6.0\Web Pet.runtimeconfig.json
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\bin\Debug\net6.0\Web Pet.dll
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\bin\Debug\net6.0\Web Pet.pdb
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\Web Pet.csproj.AssemblyReference.cache
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\Web Pet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\Web Pet.AssemblyInfoInputs.cache
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\Web Pet.AssemblyInfo.cs
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\Web Pet.csproj.CoreCompileInputs.cache
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\Web Pet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\Web Pet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\scopedcss\bundle\Web Pet.styles.css
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\Web Pet.csproj.CopyComplete
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\Web Pet.dll
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\refint\Web Pet.dll
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\Web Pet.pdb
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\Web Pet.genruntimeconfig.cache
+C:\Users\egona\source\repos\ASPNetCoreReact\Web Pet\obj\Debug\net6.0\ref\Web Pet.dll
