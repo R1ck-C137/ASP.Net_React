@@ -52,3 +52,4 @@ C:\Users\egona\source\repos\ASPNetCoreReact\WebPet\obj\Debug\net6.0\refint\WebPe
 C:\Users\egona\source\repos\ASPNetCoreReact\WebPet\obj\Debug\net6.0\WebPet.pdb
 C:\Users\egona\source\repos\ASPNetCoreReact\WebPet\obj\Debug\net6.0\WebPet.genruntimeconfig.cache
 C:\Users\egona\source\repos\ASPNetCoreReact\WebPet\obj\Debug\net6.0\ref\WebPet.dll
+C:\Users\egona\source\repos\ASPNetCoreReact\WebPet\bin\Debug\net6.0\Data\AppDB.db
